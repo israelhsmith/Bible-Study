@@ -1,0 +1,40 @@
+h1 {
+	text-align:center;
+	color:white;
+	line-height:85px;
+}
+h2 {
+	color:brown;
+}
+h3 {
+	color:brown;
+}
+body {
+	background-color:wheat;
+	margin:20px 20px 20px 20px;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+	color:red;
+	text-decoration:none;
+}
+#left {
+	float:left;
+}
+#right {
+	float:right;
+}
+img {
+	padding:25px 25px 25px 25px;
+}
+#size {
+	display:block;
+	margin:auto;
+	width:50%;
+}
+.title {
+	background-color:brown;
+	height:100px;
+}
